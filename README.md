@@ -24,37 +24,25 @@
 - [Licenza](#licenza)
 
 # Come iniziare
-
-## Dipendenze
 ## Come installare
-
-```js
-console.log("Questo è un esempio di blocco di codice")
-```
+Scaricare il file "calcolatrice.py"
 
 ## Documentazione
 ### Link a documentazione esterna 
 
-# Come contribuire
 
 ## Installare le dipendenze di sviluppo
+E' necessario avere python installato
 
 ## Struttura del progetto
 
-## Community
-
-### Code of conduct
-
-### Responsible Disclosure
 
 ### Segnalazione bug e richieste di aiuto
+E' possibile segnalare dei bug a: nutellaelik@gmail.com
 
-# Manutenzione 
-
-# Licenza 
-
-## Licenza generale 
 
 ## Autori e Copyright
+Codice creato da Rotar Elisey
 
 ## Licenze software dei componenti di terze parti
+E' stato utilizzato python e Vs code
