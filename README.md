@@ -24,8 +24,6 @@
 - [Licenza](#licenza)
 
 # Come iniziare
-
-## Dipendenze
 ## Come installare
 Scaricare il file "calcolatrice.py"
 
@@ -42,7 +40,6 @@ E' necessario avere python installato
 ### Segnalazione bug e richieste di aiuto
 E' possibile segnalare dei bug a: nutellaelik@gmail.com
 
-# Manutenzione 
 
 ## Autori e Copyright
 Codice creato da Rotar Elisey
