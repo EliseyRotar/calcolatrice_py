@@ -1,17 +1,12 @@
-scelta=1
-while(scelta!=0):
-    print("inserisci l' operazione che vuoi effettuare")
-    scelta = int(input("1)sottrazione\n2)addizione\n0)exit"))
+def Somma():
+    n_1=int(input("Inserisci il primo numero: "))
+    n_2=int(input("inserisci il secondo numero: "))
+    risultaton_1 + n_2
+    print(f"{n_1} + {n_2} = {risultato}")
+def Sottrazione():
+    n_1=int(input("Inserisci il primo numero: "))
+    n_2=int(input("inserisci il secondo numero: "))
+    risultato n_1n_2
+    print(f"{n_1}{n_2} = {risultato}")
 
-    if scelta==1:
-        n_1=int(input("Inserisci il primo numero: "))
-        n_2=int(input("inserisci il secondo numero: "))
-        risultato = n_1 - n_2
-        print(f"{n_1} - {n_2} = {risultato}")
-    elif scelta==2:
-        n_1=int(input("Inserisci il primo numero: "))
-        n_2=int(input("inserisci il secondo numero: "))
-        risultato = n_1 + n_2
-        print(f"{n_1} + {n_2} = {risultato}")
-    else:
-        print("Scelta non corretta!")
+        
